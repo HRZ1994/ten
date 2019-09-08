@@ -42,7 +42,7 @@ public class UserService {
 	private RedisTemplate redisTemplate;
 
 	@Autowired
-	//11
+
 	private RabbitTemplate rabbitTemplate;
 
 	@Autowired
